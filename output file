@@ -1,0 +1,23 @@
+---------pipe 2-----------------
+
+
+Parent is Writing-----
+Enter the String:
+Adarsh K V
+---------Child is Reading--------
+String Entered is:Adarsh
+----------Child is Writing-------
+Enter the String:
+Abhijith A
+------Parent is Reading-------
+String Entered is:Abhijith
+
+
+
+----------pipe 1----------
+Parent process is running:
+Enter the String:
+adarshkv
+Child process running:
+String Entered is:adarshkv
+
